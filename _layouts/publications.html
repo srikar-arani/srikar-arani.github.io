@@ -1,0 +1,13 @@
+---
+layout: page
+---
+<ul>
+  {% for publication in site.publications %}
+    <li>
+      <h2><a href="{{ publication.url }}">{{ publication.title }}</a></h2>
+      {{ publication.name }}
+      {{ publication.position }}
+      {{ publication.content | markdownify }}
+    </li>
+  {% endfor %}
+</ul>

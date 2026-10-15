@@ -1,0 +1,8 @@
+main:
+
+  - title: "EventFlow: Real-Time Neuromorphic Event-Driven Classification of Two-Phase Boiling Flow Regimes"
+    authors: Sanghyeon Chang, Srikar Arani, Nishant Sai Nuthalapati, Youngjoon Suh, Nicholas Choi, Siavash Khodakarami, Md Rakibul Hasan Roni, Nenad Miljkovic, Aparna Chandramowlishwaran, Yoonjin Won
+    conference: Droplet. 2026. Volume 5 e70066
+    pdf: https://arxiv.org/pdf/2511.05467
+    bibtex: ./assets/files/eventflow.bibtex
+    image: ./assets/images/eventflow.png
